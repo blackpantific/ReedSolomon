@@ -1,0 +1,7 @@
+G:\Xamarin\ReedSolomon\ReedSolomon\obj\Debug\ReedSolomon.csprojAssemblyReference.cache
+G:\Xamarin\ReedSolomon\ReedSolomon\obj\Debug\ReedSolomon.csproj.CoreCompileInputs.cache
+G:\Xamarin\ReedSolomon\ReedSolomon\bin\Debug\ReedSolomon.exe.config
+G:\Xamarin\ReedSolomon\ReedSolomon\bin\Debug\ReedSolomon.exe
+G:\Xamarin\ReedSolomon\ReedSolomon\bin\Debug\ReedSolomon.pdb
+G:\Xamarin\ReedSolomon\ReedSolomon\obj\Debug\ReedSolomon.exe
+G:\Xamarin\ReedSolomon\ReedSolomon\obj\Debug\ReedSolomon.pdb
